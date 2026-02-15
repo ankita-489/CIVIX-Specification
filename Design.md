@@ -4078,18 +4078,7 @@ The platform will be considered successful when:
 7. GDPR Guidelines: https://gdpr.eu/
 8. JWT Best Practices: https://tools.ietf.org/html/rfc8725
 
-### C. Contact Information
 
-**Development Team:**
-- Project Lead: [Name]
-- Backend Lead: [Name]
-- Frontend Lead: [Name]
-- DevOps Lead: [Name]
-
-**Support:**
-- Email: support@civix.com
-- Documentation: https://docs.civix.com
-- GitHub: https://github.com/civix/platform
 
 ---
 
